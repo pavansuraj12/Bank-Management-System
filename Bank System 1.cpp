@@ -26,7 +26,7 @@ int main()
 {
 	int choice_1;
 	system("cls");
-	printf("\n\t\t  WLECOME TO PRAHARSHITA BANK\n");
+	printf("\n\t\t  WLECOME TO OUR BANK\n");
 	printf("\nCustomer Services\n");
 	printf("Enter\n");
 	printf("1---->For new user\n");

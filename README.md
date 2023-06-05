@@ -1,4 +1,4 @@
-#OUR BANK
+## OUR BANK
 
 OUR BANK is a command-line banking application that allows users to create an account, perform transactions, and apply for loans.
 
